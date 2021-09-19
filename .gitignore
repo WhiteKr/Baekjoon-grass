@@ -12,3 +12,5 @@ comment/config.json
 *.csproj
 *.out
 *.exe
+
+.DS_Store
