@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=WhiteKr)](https://solved.ac/whitekr)
 
-## 문제 풀이 현황 (66문제)
+## 문제 풀이 현황 (68문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,9 +15,9 @@
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
-        <td>49</td>
-        <td>736</td>
-        <td>18.5 KB</td>
+        <td>51</td>
+        <td>760</td>
+        <td>18.94 KB</td>
     </tr>
     <tr>
         <td><b>C++</b></td>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>66</td>
-        <td>951</td>
-        <td>22.04 KB</td>
+        <td>68</td>
+        <td>975</td>
+        <td>22.48 KB</td>
     </tr>
 </table>
 
@@ -741,6 +741,28 @@
         </td>
         <td align="center">
             <a href="src/11/11654.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/14681">
+                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                14681 사분면 고르기
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/14/14681.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/14918">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                14918 더하기
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/14/14918.kt">Kotlin</a>
         </td>
     </tr>
     <tr>
