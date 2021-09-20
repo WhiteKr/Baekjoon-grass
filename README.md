@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=WhiteKr)](https://solved.ac/whitekr)
 
-## 문제 풀이 현황 (44문제)
+## 문제 풀이 현황 (47문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,21 +15,21 @@
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
-        <td>32</td>
-        <td>546</td>
-        <td>13.15 KB</td>
+        <td>33</td>
+        <td>555</td>
+        <td>13.46 KB</td>
     </tr>
     <tr>
         <td><b>C++</b></td>
-        <td>12</td>
-        <td>180</td>
-        <td>2.79 KB</td>
+        <td>14</td>
+        <td>191</td>
+        <td>3.09 KB</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>44</td>
-        <td>726</td>
-        <td>15.94 KB</td>
+        <td>47</td>
+        <td>746</td>
+        <td>16.55 KB</td>
     </tr>
 </table>
 
@@ -499,6 +499,39 @@
         </td>
         <td align="center">
             <a href="src/10/10172.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10250">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                10250 ACM 호텔
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10250.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10430">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                10430 나머지
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10430.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10718">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                10718 We love kriii
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10718.cpp">C++</a>
         </td>
     </tr>
     <tr>
