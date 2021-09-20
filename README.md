@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=WhiteKr)](https://solved.ac/whitekr)
 
-## 문제 풀이 현황 (42문제)
+## 문제 풀이 현황 (44문제)
 
 ### 언어별 코드 수
 <table>
@@ -21,15 +21,15 @@
     </tr>
     <tr>
         <td><b>C++</b></td>
-        <td>10</td>
-        <td>172</td>
-        <td>2.6 KB</td>
+        <td>12</td>
+        <td>180</td>
+        <td>2.79 KB</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>42</td>
-        <td>718</td>
-        <td>15.75 KB</td>
+        <td>44</td>
+        <td>726</td>
+        <td>15.94 KB</td>
     </tr>
 </table>
 
@@ -477,6 +477,28 @@
         </td>
         <td align="center">
             <a href="src/9/9653.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10171">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                10171 고양이
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10171.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10172">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                10172 개
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10172.cpp">C++</a>
         </td>
     </tr>
     <tr>
