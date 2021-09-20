@@ -400,6 +400,54 @@
         ]
     },
     {
+        "id": 10927,
+        "title": "MD5",
+        "level": 0,
+        "codes": [
+            "src/10/10927.kt"
+        ]
+    },
+    {
+        "id": 10928,
+        "title": "SHA-1",
+        "level": 0,
+        "codes": [
+            "src/10/10928.kt"
+        ]
+    },
+    {
+        "id": 10929,
+        "title": "SHA-224",
+        "level": 0,
+        "codes": [
+            "src/10/10929.kt"
+        ]
+    },
+    {
+        "id": 10930,
+        "title": "SHA-256",
+        "level": 0,
+        "codes": [
+            "src/10/10930.kt"
+        ]
+    },
+    {
+        "id": 10931,
+        "title": "SHA-384",
+        "level": 0,
+        "codes": [
+            "src/10/10931.kt"
+        ]
+    },
+    {
+        "id": 10932,
+        "title": "SHA-512",
+        "level": 0,
+        "codes": [
+            "src/10/10932.kt"
+        ]
+    },
+    {
         "id": 15962,
         "title": "새로운 시작",
         "level": 1,

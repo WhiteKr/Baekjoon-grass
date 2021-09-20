@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=WhiteKr)](https://solved.ac/whitekr)
 
-## 문제 풀이 현황 (52문제)
+## 문제 풀이 현황 (58문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,9 +15,9 @@
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
-        <td>36</td>
-        <td>586</td>
-        <td>14.33 KB</td>
+        <td>42</td>
+        <td>679</td>
+        <td>16.82 KB</td>
     </tr>
     <tr>
         <td><b>C++</b></td>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>52</td>
-        <td>795</td>
-        <td>17.75 KB</td>
+        <td>58</td>
+        <td>888</td>
+        <td>20.25 KB</td>
     </tr>
 </table>
 
@@ -587,6 +587,72 @@
         </td>
         <td align="center">
             <a href="src/10/10872.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10927">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                10927 MD5
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10927.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10928">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                10928 SHA-1
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10928.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10929">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                10929 SHA-224
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10929.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10930">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                10930 SHA-256
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10930.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10931">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                10931 SHA-384
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10931.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10932">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                10932 SHA-512
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10932.kt">Kotlin</a>
         </td>
     </tr>
     <tr>
