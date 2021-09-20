@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=WhiteKr)](https://solved.ac/whitekr)
 
-## 문제 풀이 현황 (65문제)
+## 문제 풀이 현황 (66문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,9 +15,9 @@
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
-        <td>48</td>
+        <td>49</td>
         <td>736</td>
-        <td>18.46 KB</td>
+        <td>18.5 KB</td>
     </tr>
     <tr>
         <td><b>C++</b></td>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>65</td>
+        <td>66</td>
         <td>951</td>
-        <td>22 KB</td>
+        <td>22.04 KB</td>
     </tr>
 </table>
 
@@ -730,6 +730,17 @@
         </td>
         <td align="center">
             <a href="src/11/11022.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/11654">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                11654 아스키 코드
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/11/11654.kt">Kotlin</a>
         </td>
     </tr>
     <tr>
