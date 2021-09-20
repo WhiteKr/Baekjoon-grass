@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=WhiteKr)](https://solved.ac/whitekr)
 
-## 문제 풀이 현황 (61문제)
+## 문제 풀이 현황 (65문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,21 +15,21 @@
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
-        <td>45</td>
-        <td>709</td>
-        <td>17.73 KB</td>
+        <td>46</td>
+        <td>736</td>
+        <td>18.46 KB</td>
     </tr>
     <tr>
         <td><b>C++</b></td>
-        <td>16</td>
-        <td>209</td>
-        <td>3.43 KB</td>
+        <td>17</td>
+        <td>215</td>
+        <td>3.54 KB</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>61</td>
-        <td>918</td>
-        <td>21.16 KB</td>
+        <td>63</td>
+        <td>951</td>
+        <td>22 KB</td>
     </tr>
 </table>
 
@@ -686,6 +686,50 @@
         </td>
         <td align="center">
             <a href="src/10/10952.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10989">
+                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+                10989 수 정렬하기 3
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10989.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10998">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                10998 A×B
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10998.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/11021">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                11021 A+B - 7
+            </a>
+        </td>
+        <td align="center">
+            
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/11022">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                11022 A+B - 8
+            </a>
+        </td>
+        <td align="center">
+            
         </td>
     </tr>
     <tr>
