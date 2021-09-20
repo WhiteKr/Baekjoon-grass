@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=WhiteKr)](https://solved.ac/whitekr)
 
-## 문제 풀이 현황 (40문제)
+## 문제 풀이 현황 (41문제)
 
 ### 언어별 코드 수
 <table>
@@ -16,20 +16,20 @@
     <tr>
         <td><b>Kotlin</b></td>
         <td>31</td>
-        <td>371</td>
-        <td>10.16 KB</td>
+        <td>541</td>
+        <td>13.04 KB</td>
     </tr>
     <tr>
         <td><b>C++</b></td>
-        <td>9</td>
-        <td>130</td>
-        <td>1.87 KB</td>
+        <td>10</td>
+        <td>172</td>
+        <td>2.6 KB</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>40</td>
-        <td>501</td>
-        <td>12.03 KB</td>
+        <td>41</td>
+        <td>713</td>
+        <td>15.63 KB</td>
     </tr>
 </table>
 
@@ -444,6 +444,17 @@
         </td>
         <td align="center">
             <a href="src/8/8958.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/9498">
+                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                9498 시험 성적
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/9/9498.cpp">C++</a>
         </td>
     </tr>
     <tr>
