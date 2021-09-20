@@ -16,8 +16,8 @@
     <tr>
         <td><b>Kotlin</b></td>
         <td>46</td>
-        <td>736</td>
-        <td>18.46 KB</td>
+        <td>724</td>
+        <td>18.08 KB</td>
     </tr>
     <tr>
         <td><b>C++</b></td>
@@ -28,8 +28,8 @@
     <tr>
         <td><b>Total</b></td>
         <td>63</td>
-        <td>951</td>
-        <td>22 KB</td>
+        <td>939</td>
+        <td>21.61 KB</td>
     </tr>
 </table>
 
