@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=WhiteKr)](https://solved.ac/whitekr)
 
-## 문제 풀이 현황 (58문제)
+## 문제 풀이 현황 (61문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,9 +15,9 @@
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
-        <td>42</td>
-        <td>679</td>
-        <td>16.82 KB</td>
+        <td>45</td>
+        <td>709</td>
+        <td>17.73 KB</td>
     </tr>
     <tr>
         <td><b>C++</b></td>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>58</td>
-        <td>888</td>
-        <td>20.25 KB</td>
+        <td>61</td>
+        <td>918</td>
+        <td>21.16 KB</td>
     </tr>
 </table>
 
@@ -653,6 +653,39 @@
         </td>
         <td align="center">
             <a href="src/10/10932.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10950">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                10950 A+B - 3
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10950.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10951">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                10951 A+B - 4
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10951.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10952">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                10952 A+B - 5
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10952.kt">Kotlin</a>
         </td>
     </tr>
     <tr>
