@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=WhiteKr)](https://solved.ac/whitekr)
 
-## 문제 풀이 현황 (41문제)
+## 문제 풀이 현황 (42문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,9 +15,9 @@
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
-        <td>31</td>
-        <td>541</td>
-        <td>13.04 KB</td>
+        <td>32</td>
+        <td>546</td>
+        <td>13.15 KB</td>
     </tr>
     <tr>
         <td><b>C++</b></td>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>41</td>
-        <td>713</td>
-        <td>15.63 KB</td>
+        <td>42</td>
+        <td>718</td>
+        <td>15.75 KB</td>
     </tr>
 </table>
 
@@ -455,6 +455,17 @@
         </td>
         <td align="center">
             <a href="src/9/9498.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/9524">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                9524 Beautiful Yekaterinburg
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/9/9524.kt">Kotlin</a>
         </td>
     </tr>
     <tr>

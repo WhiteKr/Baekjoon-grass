@@ -304,6 +304,14 @@
         ]
     },
     {
+        "id": 9524,
+        "title": "Beautiful Yekaterinburg",
+        "level": 0,
+        "codes": [
+            "src/9/9524.kt"
+        ]
+    },
+    {
         "id": 9653,
         "title": "스타워즈 로고",
         "level": 1,
