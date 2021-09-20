@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=WhiteKr)](https://solved.ac/whitekr)
 
-## 문제 풀이 현황 (68문제)
+## 문제 풀이 현황 (69문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,9 +15,9 @@
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
-        <td>51</td>
+        <td>52</td>
         <td>760</td>
-        <td>18.94 KB</td>
+        <td>18.96 KB</td>
     </tr>
     <tr>
         <td><b>C++</b></td>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>68</td>
+        <td>69</td>
         <td>975</td>
-        <td>22.48 KB</td>
+        <td>22.5 KB</td>
     </tr>
 </table>
 
@@ -763,6 +763,17 @@
         </td>
         <td align="center">
             <a href="src/14/14918.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15802">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                15802 타노스
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/15/15802.kt">Kotlin</a>
         </td>
     </tr>
     <tr>
