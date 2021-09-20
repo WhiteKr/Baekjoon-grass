@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=WhiteKr)](https://solved.ac/whitekr)
 
-## 문제 풀이 현황 (47문제)
+## 문제 풀이 현황 (52문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,21 +15,21 @@
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
-        <td>33</td>
-        <td>555</td>
-        <td>13.46 KB</td>
+        <td>36</td>
+        <td>586</td>
+        <td>14.33 KB</td>
     </tr>
     <tr>
         <td><b>C++</b></td>
-        <td>14</td>
-        <td>191</td>
-        <td>3.09 KB</td>
+        <td>16</td>
+        <td>209</td>
+        <td>3.43 KB</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>47</td>
-        <td>746</td>
-        <td>16.55 KB</td>
+        <td>52</td>
+        <td>795</td>
+        <td>17.75 KB</td>
     </tr>
 </table>
 
@@ -532,6 +532,61 @@
         </td>
         <td align="center">
             <a href="src/10/10718.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10808">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                10808 알파벳 개수
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10808.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10818">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                10818 최소, 최대
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10818.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10869">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                10869 사칙연산
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10869.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10871">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                10871 X보다 작은 수
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10871.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10872">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                10872 팩토리얼
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10872.kt">Kotlin</a>
         </td>
     </tr>
     <tr>
