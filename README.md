@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=WhiteKr)](https://solved.ac/whitekr)
 
-## 문제 풀이 현황 (69문제)
+## 문제 풀이 현황 (70문제)
 
 ### 언어별 코드 수
 <table>
@@ -26,10 +26,16 @@
         <td>3.54 KB</td>
     </tr>
     <tr>
+        <td><b>Java</b></td>
+        <td>1</td>
+        <td>7</td>
+        <td>161 B</td>
+    </tr>
+    <tr>
         <td><b>Total</b></td>
-        <td>69</td>
-        <td>975</td>
-        <td>22.5 KB</td>
+        <td>70</td>
+        <td>982</td>
+        <td>22.66 KB</td>
     </tr>
 </table>
 
@@ -763,6 +769,17 @@
         </td>
         <td align="center">
             <a href="src/14/14918.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15596">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                15596 정수 N개의 합
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/15/15596.java">Java</a>
         </td>
     </tr>
     <tr>
