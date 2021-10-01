@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=WhiteKr)](https://solved.ac/whitekr)
 
-## 문제 풀이 현황 (71문제)
+## 문제 풀이 현황 (72문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,9 +15,9 @@
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
-        <td>53</td>
-        <td>765</td>
-        <td>19.13 KB</td>
+        <td>54</td>
+        <td>774</td>
+        <td>19.42 KB</td>
     </tr>
     <tr>
         <td><b>C++</b></td>
@@ -33,9 +33,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>71</td>
-        <td>987</td>
-        <td>22.82 KB</td>
+        <td>72</td>
+        <td>996</td>
+        <td>23.11 KB</td>
     </tr>
 </table>
 
@@ -758,6 +758,17 @@
         </td>
         <td align="center">
             <a href="src/11/11654.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/11720">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                11720 숫자의 합
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/11/11720.kt">Kotlin</a>
         </td>
     </tr>
     <tr>
