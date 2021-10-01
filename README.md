@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=WhiteKr)](https://solved.ac/whitekr)
 
-## 문제 풀이 현황 (72문제)
+## 문제 풀이 현황 (73문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,9 +15,9 @@
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
-        <td>54</td>
-        <td>774</td>
-        <td>19.42 KB</td>
+        <td>55</td>
+        <td>780</td>
+        <td>19.62 KB</td>
     </tr>
     <tr>
         <td><b>C++</b></td>
@@ -33,9 +33,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>72</td>
-        <td>996</td>
-        <td>23.11 KB</td>
+        <td>73</td>
+        <td>1,002</td>
+        <td>23.32 KB</td>
     </tr>
 </table>
 
@@ -98,6 +98,17 @@
         </td>
         <td align="center">
             <a href="src/1/1032.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/1152">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                1152 단어의 개수
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/1/1152.kt">Kotlin</a>
         </td>
     </tr>
     <tr>
