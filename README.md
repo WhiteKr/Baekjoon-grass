@@ -14,21 +14,6 @@
         <th>크기</th>
     </tr>
     <tr>
-<<<<<<< HEAD
-        <td><b>Kotlin</b></td>
-        <td>60</td>
-        <td>830</td>
-        <td>21.22 KB</td>
-    </tr>
-    <tr>
-        <td><b>C++</b></td>
-        <td>17</td>
-        <td>215</td>
-        <td>3.54 KB</td>
-    </tr>
-    <tr>
-        <td><b>Java</b></td>
-=======
         <td><b>C++</b></td>
         <td>317</td>
         <td>10,744</td>
@@ -84,22 +69,15 @@
     </tr>
     <tr>
         <td><b>Pascal</b></td>
->>>>>>> 8e1c3e3 (Add color to languages)
         <td>1</td>
         <td>7</td>
         <td>161 B</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
-<<<<<<< HEAD
-        <td>78</td>
-        <td>1,052</td>
-        <td>24.92 KB</td>
-=======
         <td>1,121</td>
         <td>37,962</td>
         <td>687.7 KB</td>
->>>>>>> 8e1c3e3 (Add color to languages)
     </tr>
 </table>
 
@@ -116,17 +94,12 @@
                 1000 A+B
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/1/1000.cpp">C++</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1000.cpp">C++</a>
         	<br>
             <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/1/1000.rs">Rust</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -136,10 +109,6 @@
                 1001 A-B
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/1/1001.cpp">C++</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1001.cpp">C++</a>
@@ -170,7 +139,6 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1003.cpp">C++</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -180,10 +148,6 @@
                 1008 A/B
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/1/1008.cpp">C++</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1008.cpp">C++</a>
@@ -253,7 +217,6 @@
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/1/1018.cs">C#</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -263,14 +226,9 @@
                 1011 Fly me to the Alpha Centauri
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/1/1011.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1026.cpp">C++</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -280,10 +238,6 @@
                 1032 명령 프롬프트
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/1/1032.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1032.js">Node.js</a>
@@ -383,7 +337,6 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1110.cpp">C++</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -393,14 +346,9 @@
                 1152 단어의 개수
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/1/1152.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1152.cpp">C++</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -410,10 +358,6 @@
                 1157 단어 공부
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/1/1157.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1157.cpp">C++</a>
@@ -453,14 +397,11 @@
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1188.js">Node.js</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/1193">
-<<<<<<< HEAD
-=======
                 <img src="https://static.solved.ac/tier_small/4.svg" height="14">
                 1193 분수찾기
             </a>
@@ -548,19 +489,13 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/1252">
->>>>>>> 8e1c3e3 (Add color to languages)
                 <img src="https://static.solved.ac/tier_small/5.svg" height="14">
                 1193 분수찾기
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/1/1193.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/1/1252.py">Python</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -570,10 +505,6 @@
                 1259 팰린드롬수
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/1/1259.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1259.cpp">C++</a>
@@ -601,7 +532,6 @@
         <td>
             <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/1/1267.py">Python</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -611,10 +541,6 @@
                 1271 엄청난 부자2
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/1/1271.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/1/1271.py">Python</a>
@@ -630,20 +556,10 @@
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1283.js">Node.js</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
         <td>
-<<<<<<< HEAD
-            <a href="https://www.acmicpc.net/problem/1316">
-                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
-                1316 그룹 단어 체커
-            </a>
-        </td>
-        <td align="center">
-            <a href="src/1/1316.kt">Kotlin</a>
-=======
             <a href="https://www.acmicpc.net/problem/1284">
                 <img src="https://static.solved.ac/tier_small/3.svg" height="14">
                 1284 집 주소
@@ -667,7 +583,6 @@
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1292.js">Node.js</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -677,10 +592,6 @@
                 1330 두 수 비교하기
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/1/1330.cpp">C++</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/1/1297.py">Python</a>
@@ -816,7 +727,6 @@
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1408.js">Node.js</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -826,10 +736,6 @@
                 1427 소트인사이드
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/1/1427.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1427.cpp">C++</a>
@@ -12464,7 +12370,6 @@
         <td>
             <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/18/18829.txt">Text</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12474,14 +12379,9 @@
                 1546 평균
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/1/1546.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/18/18856.rs">Rust</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12491,14 +12391,9 @@
                 1550 16진수
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/1/1550.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/18/18883.js">Node.js</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12508,14 +12403,9 @@
                 1966 프린터 큐
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/1/1966.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/19/19155.js">Node.js</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12525,14 +12415,9 @@
                 2438 별 찍기 - 1
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/2/2438.cpp">C++</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/19/19532.rs">Rust</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12542,14 +12427,9 @@
                 2439 별 찍기 - 2
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/2/2439.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/19/19564.rs">Rust</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12559,14 +12439,9 @@
                 2475 검증수
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/2/2475.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/19/19572.js">Node.js</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12576,14 +12451,9 @@
                 2556 별 찍기 - 14
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/2/2556.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/19/19575.rs">Rust</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12593,14 +12463,9 @@
                 2557 Hello World
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/2/2557.cpp">C++</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/19/19602.py">Python</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12610,14 +12475,9 @@
                 2558 A+B - 2
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/2/2558.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/19/19604.cs">C#</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12627,14 +12487,9 @@
                 2562 최댓값
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/2/2562.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/19/19617.txt">Text</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12644,14 +12499,9 @@
                 2577 숫자의 개수
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/2/2577.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/19/19698.rs">Rust</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12661,14 +12511,9 @@
                 2675 문자열 반복
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/2/2675.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/19/19813.rs">Rust</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12678,14 +12523,9 @@
                 2739 구구단
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/2/2739.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/19/19843.js">Node.js</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12695,14 +12535,9 @@
                 2741 N 찍기
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/2/2741.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/19/19844.js">Node.js</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12712,14 +12547,9 @@
                 2742 기찍 N
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/2/2742.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/19/19944.rs">Rust</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12729,14 +12559,9 @@
                 2750 수 정렬하기
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/2/2750.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/19/19945.rs">Rust</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12746,14 +12571,9 @@
                 2753 윤년
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/2/2753.cpp">C++</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/20/20001.rs">Rust</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12763,14 +12583,9 @@
                 2798 블랙잭
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/2/2798.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/20/20004.rs">Rust</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12780,14 +12595,9 @@
                 2839 설탕 배달
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/2/2839.cpp">C++</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/20/20053.js">Node.js</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12797,14 +12607,9 @@
                 2845 파티가 끝나고 난 뒤
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/2/2845.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/20/20112.js">Node.js</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12814,14 +12619,9 @@
                 2884 알람 시계
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/2/2884.cpp">C++</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/20/20113.js">Node.js</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12831,14 +12631,9 @@
                 2908 상수
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/2/2908.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/20/20124.js">Node.js</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12848,14 +12643,9 @@
                 2920 음계
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/2/2920.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/20/20155.js">Node.js</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12865,14 +12655,9 @@
                 3052 나머지
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/3/3052.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/20/20215.cs">C#</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12882,14 +12667,9 @@
                 5337 웰컴
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/5/5337.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/20/20216.py">Python</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12899,14 +12679,9 @@
                 5338 마이크로소프트 로고
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/5/5338.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/20/20232.js">Node.js</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12916,14 +12691,9 @@
                 5585 거스름돈
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/5/5585.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/20/20233.cs">C#</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12933,14 +12703,9 @@
                 5622 다이얼
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/5/5622.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/20/20254.js">Node.js</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12950,14 +12715,9 @@
                 8393 합
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/8/8393.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/20/20268.cs">C#</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12967,14 +12727,9 @@
                 8958 OX퀴즈
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/8/8958.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/20/20299.js">Node.js</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -12984,14 +12739,9 @@
                 9498 시험 성적
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/9/9498.cpp">C++</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/20/20352.cs">C#</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13001,14 +12751,9 @@
                 9524 Beautiful Yekaterinburg
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/9/9524.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/20/20353.cs">C#</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13018,14 +12763,9 @@
                 9653 스타워즈 로고
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/9/9653.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/20/20492.cpp">C++</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13035,14 +12775,9 @@
                 10171 고양이
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/10/10171.cpp">C++</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/20/20494.cs">C#</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13052,14 +12787,9 @@
                 10172 개
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/10/10172.cpp">C++</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/20/20499.cs">C#</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13069,14 +12799,9 @@
                 10250 ACM 호텔
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/10/10250.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/20/20528.sh">Bash</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13086,14 +12811,9 @@
                 10430 나머지
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/10/10430.cpp">C++</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/20/20540.cpp">C++</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13103,14 +12823,9 @@
                 10718 We love kriii
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/10/10718.cpp">C++</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/20/20673.cpp">C++</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13120,14 +12835,9 @@
                 10808 알파벳 개수
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/10/10808.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/20/20833.sh">Bash</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13137,14 +12847,9 @@
                 10809 알파벳 찾기
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/10/10809.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/20/20839.cs">C#</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13154,14 +12859,9 @@
                 10818 최소, 최대
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/10/10818.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/20/20944.cs">C#</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13171,14 +12871,9 @@
                 10869 사칙연산
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/10/10869.cpp">C++</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/20/20976.cpp">C++</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13188,14 +12883,9 @@
                 10871 X보다 작은 수
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/10/10871.cpp">C++</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/21/21185.cs">C#</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13205,14 +12895,9 @@
                 10872 팩토리얼
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/10/10872.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/21/21300.cpp">C++</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13222,14 +12907,9 @@
                 10927 MD5
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/10/10927.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/21/21335.cs">C#</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13239,14 +12919,9 @@
                 10928 SHA-1
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/10/10928.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/21/21354.cpp">C++</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13256,14 +12931,9 @@
                 10929 SHA-224
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/10/10929.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/21/21553.sh">Bash</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13273,14 +12943,9 @@
                 10930 SHA-256
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/10/10930.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/21/21569.cs">C#</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13290,14 +12955,9 @@
                 10931 SHA-384
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/10/10931.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/21/21591.cpp">C++</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13307,14 +12967,9 @@
                 10932 SHA-512
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/10/10932.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/21/21598.cpp">C++</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13324,14 +12979,9 @@
                 10950 A+B - 3
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/10/10950.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/21/21612.cpp">C++</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13341,14 +12991,9 @@
                 10951 A+B - 4
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/10/10951.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/21/21631.cs">C#</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13358,14 +13003,9 @@
                 10952 A+B - 5
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/10/10952.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/21/21633.cs">C#</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13375,14 +13015,9 @@
                 10989 수 정렬하기 3
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/10/10989.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/21/21638.cs">C#</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13392,14 +13027,9 @@
                 10998 A×B
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/10/10998.cpp">C++</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/21/21895.cs">C#</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13409,14 +13039,9 @@
                 11021 A+B - 7
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/11/11021.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/21/21955.cs">C#</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13426,14 +13051,9 @@
                 11022 A+B - 8
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/11/11022.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/22/22015.cpp">C++</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13443,14 +13063,9 @@
                 11654 아스키 코드
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/11/11654.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/22/22150.cs">C#</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13460,14 +13075,9 @@
                 11720 숫자의 합
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/11/11720.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/22/22151.cs">C#</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13477,14 +13087,9 @@
                 14681 사분면 고르기
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/14/14681.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/22/22193.cs">C#</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13494,14 +13099,9 @@
                 14918 더하기
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/14/14918.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/22/22380.cs">C#</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13511,14 +13111,9 @@
                 15596 정수 N개의 합
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/15/15596.java">Java</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/22/22388.cs">C#</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13528,14 +13123,9 @@
                 15802 타노스
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/15/15802.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/22/22396.cs">C#</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13545,14 +13135,9 @@
                 15962 새로운 시작
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/15/15962.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/22/22938.sh">Bash</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
     <tr>
@@ -13562,14 +13147,9 @@
                 15964 이상한 기호
             </a>
         </td>
-<<<<<<< HEAD
-        <td align="center">
-            <a href="src/15/15964.kt">Kotlin</a>
-=======
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/23/23037.cpp">C++</a>
->>>>>>> 8e1c3e3 (Add color to languages)
         </td>
     </tr>
 </table>
