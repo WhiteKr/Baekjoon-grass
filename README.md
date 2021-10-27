@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=WhiteKr)](https://solved.ac/whitekr)
 
-## 문제 풀이 현황 (78문제)
+## 문제 풀이 현황 (79문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,9 +15,9 @@
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
-        <td>60</td>
-        <td>830</td>
-        <td>21.73 kB</td>
+        <td>61</td>
+        <td>842</td>
+        <td>22.09 kB</td>
     </tr>
     <tr>
         <td><b>C++</b></td>
@@ -33,9 +33,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>78</td>
-        <td>1,052</td>
-        <td>25.52 kB</td>
+        <td>79</td>
+        <td>1,064</td>
+        <td>25.88 kB</td>
     </tr>
 </table>
 
@@ -391,6 +391,18 @@
         <td>
             <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
             <a href="src/2/2750.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2751">
+                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+                2751 수 정렬하기 2
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/2/2751.kt">Kotlin</a>
         </td>
     </tr>
     <tr>
