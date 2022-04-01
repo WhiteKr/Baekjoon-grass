@@ -11,3 +11,7 @@ src/**/*.exe
 
 src/stdin
 comment/config.json
+
+.idea
+*.iml
+.DS_Store
